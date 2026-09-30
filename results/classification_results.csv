@@ -1,0 +1,4 @@
+model,cv_auc_mean,cv_auc_std,test_auc,test_accuracy
+Logistic Regression,1.0,0.0,1.0,1.0
+Random Forest,1.0,0.0,1.0,1.0
+SVM (linear kernel),1.0,0.0,1.0,1.0
